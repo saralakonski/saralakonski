@@ -8,11 +8,10 @@ Me chamo Sara, tenho 27 anos e sou natural do Paraná. Sou formada em Análise e
 
 Minha trajetória profissional foi construída na área de Recursos Humanos, onde atuei por mais de seis anos. Essa experiência desenvolveu habilidades que considero importantes também para a tecnologia: visão de processos, organização, comunicação, resolução de problemas e atenção às necessidades das pessoas.
 
-Tenho conhecimentos iniciais em HTML e CSS e estou explorando diferentes caminhos dentro da área de tecnologia. Entre os temas que mais despertam minha curiosidade estão desenvolvimento full stack, automação de processos, inteligência artificial e cibersegurança.
+Tenho conhecimentos iniciais em HTML e CSS e estou explorando diferentes caminhos dentro da área de tecnologia. Entre os temas que mais despertam minha curiosidade estão automação de processos, inteligência artificial e cibersegurança.
 
 Este GitHub será um espaço para registrar minha evolução, compartilhar projetos de estudo e construir meu portfólio ao longo dessa nova etapa profissional.
 
-Também compartilho minha jornada de estudos e desenvolvimento na área de tecnologia em meu perfil no Instagram "[Carol Dev Board](https://www.instagram.com/carol.devboard)". O objetivo desse espaço é registrar aprendizados, trocar experiências e oferecer apoio a outras pessoas que, assim como eu, estão iniciando sua trajetória no universo da tecnologia.
 
 ---
 
@@ -22,11 +21,9 @@ My name is Sara, I'm 27 years old, and I'm from Paraná, Brazil. I hold a degree
 
 My professional background was built in Human Resources, where I worked for more than six years. This experience helped me develop skills that I believe are equally valuable in technology, such as process-oriented thinking, organization, communication, problem-solving, and a people-centered approach.
 
-I have a basic understanding of HTML and CSS, and I am currently exploring different paths within the tech industry. The areas that spark my interest the most are full-stack development, process automation, artificial intelligence, and cybersecurity.
+I have a basic understanding of HTML and CSS, and I am currently exploring different paths within the tech industry. The areas that spark my interest the most are process automation, artificial intelligence, and cybersecurity.
 
 This GitHub will be a place to document my learning journey, share study projects, and build my portfolio as I embark on this new professional chapter.
-
-I also share my learning journey and growth in technology on my Instagram profile "[Carol Dev Board](https://www.instagram.com/carol.devboard)". The purpose of this space is to document what I learn, exchange experiences, and support other people who, like me, are beginning their journey in the world of technology.
 
 ---
 <br/>
